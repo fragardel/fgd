@@ -1,0 +1,17 @@
+h1
+{
+    color: red;
+    font-size: 2.5rem;
+}
+
+.etiqueta
+{
+color: blue;
+font-size: 4rem;
+}
+
+#principal
+{
+    color: blueviolet;
+    font-size: 1rem;
+}
